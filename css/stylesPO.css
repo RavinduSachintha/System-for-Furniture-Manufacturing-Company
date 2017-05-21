@@ -1,0 +1,86 @@
+.subframe {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  margin:25px auto;
+  background-color: lightblue;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.txtsmall {
+  position: relative;
+  left: 30px;
+  top: 0px;
+  margin: 5px;
+  width: 150px;
+}
+
+.txtaddress {
+  left: 50px;
+  width: 250px;
+}
+
+.radiobtn {
+  left: 35px;
+  width: 90px;
+}
+
+.itembtn {
+  position: relative;
+  left: 75px;
+  width: 100px;
+}
+
+.mainbtn {
+  position: relative;
+  top: -10px;
+  width: 130px;
+  height: 35px;
+  margin: 0 30px;
+}
+
+.lbladvance {
+  display: inline-block;
+  position: relative;
+  width: 140px;
+  left: 40px;
+  top: 5px;
+}
+
+.checkbtn {
+  position:  relative;
+  width: 200px;
+  left: 90px;
+  margin-top: 20px;
+}
+
+.txtpayment {
+  position: relative;
+  width: 100px;
+  left: 60px;
+  top: 5px;
+}
+
+h4,td,textarea {
+  position: relative;
+}
+
+h4 {
+  margin-top: 10px;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  left: 10px;
+}
+
+textarea {
+  left: 54px;
+  width: 250px;
+  margin-top: 5px;
+  height: 100px;
+}
